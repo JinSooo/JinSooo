@@ -1,4 +1,8 @@
+![](https://github.com/JinSooo/JinSooo/blob/main/header.png)
+
 ### Hi there 👋
+
+💙 Something good will happen to you today. 💙
 
 <!--
 **JinSooo/JinSooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
